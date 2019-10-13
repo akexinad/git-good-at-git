@@ -1,0 +1,31 @@
+TIME TO GIT GOOD AT GIT
+=======================
+
+
+
+
+THE 3 STAGES OF GIT
+===================
+
+WORKING DIRECTORY
+- This is where all the project and app files are held.
+
+STAGING AREA
+- aka the git index.
+- This is the holding are for queueing up your changes that ready to be committed.
+
+COMMIT
+- This is where the code has been committed to the repository and is now recorded in history.
+
+- We can also add a FOURTH GIT STATE for clarity...
+
+THE REMOTE REPOSITORY (GitHub)
+- The remote repo also has its own 3 stages like the local repo.
+
+
+
+
+THE BRANCH
+==========
+
+- You can think of branches as timelines that contain the changes/deltas of your code.
