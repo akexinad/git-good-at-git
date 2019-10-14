@@ -1,0 +1,58 @@
+TIME TO GIT GOOD AT GIT
+=======================
+
+
+
+
+THE 3 STAGES OF GIT
+===================
+
+WORKING DIRECTORY
+- This is where all the project and app files are held.
+
+STAGING AREA
+- aka the git index.
+- This is the holding are for queueing up your changes that ready to be committed.
+
+COMMIT
+- This is where the code has been committed to the repository and is now recorded in history.
+
+- We can also add a FOURTH GIT STATE for clarity...
+
+THE REMOTE REPOSITORY (GitHub)
+- The remote repo also has its own 3 stages like the local repo.
+
+
+
+
+THE BRANCH
+==========
+
+- You can think of branches as timelines that contain the changes/deltas of your code.
+
+
+
+
+CONFIGURING YOUR GIT
+====================
+
+$ git config --global user.name "akexinad"
+$ git config --global user.email "danixeka@gmail.com"
+
+- now you can check if everything has been added correctly.
+
+$ git config --global --list
+
+
+
+
+- origin/master is the name of the master branch on the remote repo found on github.
+    - Your branch is the master branch, the master branch in github is called the origin/master branch.
+
+
+
+
+GIT ADD
+=======
+
+- 
